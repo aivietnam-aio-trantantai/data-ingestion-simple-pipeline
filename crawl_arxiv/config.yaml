@@ -1,0 +1,6 @@
+categories: ["cs.LG", "cs.CV"]
+max_results_per_category: 50
+days_back: 1
+api:
+  base_url: "http://export.arxiv.org/api/query"
+  request_delay: 5

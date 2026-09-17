@@ -1,0 +1,8 @@
+query: "AI Research Papers"
+days_back: 1
+min_duration_seconds: 120
+max_duration_seconds: 720
+require_english: true
+exclude_shorts: true
+max_results: 10
+search_timeout_seconds: 30
